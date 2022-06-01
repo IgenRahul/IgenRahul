@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgenRahul
 - 👀 I’m interested in everything around me
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning React-Native and TypeScript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me instagram - @igen_rahul
 
